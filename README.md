@@ -29,11 +29,11 @@ It demonstrates both **Class Component** and **Function Component** approaches i
 
 ## 📂 Project Structure
 src/
-├── App.jsx # Main component that renders both counters
-├── ClassCounter.jsx # Class component version of the counter
-├── FunctionCounter.jsx# Functional component version of the counter
-├── App.css # Styling for the app
-├── main.jsx # Entry point for Vite/React app
+- App.jsx # Main component that renders both counters
+- ClassCounter.jsx # Class component version of the counter
+- FunctionCounter.jsx# Functional component version of the counter
+- App.css # Styling for the app
+- main.jsx # Entry point for Vite/React app
 
 
 ---
