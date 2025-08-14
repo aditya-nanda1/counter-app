@@ -1,12 +1,30 @@
-# React + Vite
+# Assignment-2 Counter Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based Counter Application built using **Vite**.  
+It demonstrates both **Class Component** and **Function Component** approaches in React, with increment and decrement functionality.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[Click here to view the live app](https://neon-choux-412791.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
+- ✅ **Class Component Counter** with `+` and `-` buttons  
+- ✅ **Function Component Counter** with `+` and `-` buttons  
+- ✅ **Attractive UI** with gradient background and card layout  
+- ✅ **Number cannot be less than 0** (validation in both components)  
+- ✅ Both components displayed **side-by-side in a row**  
+- ✅ **Main heading**: "Assignment-2 Counter Application"
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+- **React** (UI Library)
+- **Vite** (Fast build tool)
+- **JavaScript (ES6+)**
+- **CSS3** (Styling)
+- **Netlify** (Hosting)
+
+---
+
+## 📂 Project Structure
